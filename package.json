@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-   "engines" : { "node" : ">=0.12" } 
+   "engines" : { "node" : "14.x","npm": "6.x" } 
 }
